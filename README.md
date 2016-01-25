@@ -1,4 +1,4 @@
-# brainHole
+# Brain Hole
 
 This is a repository  where I show my thought, possiblely about everything.
 
