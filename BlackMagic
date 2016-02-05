@@ -1,0 +1,3 @@
+# Balck Magic
+
+What is the difference between `String one = "one";` and `String one=new String("one");`?
