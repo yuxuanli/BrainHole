@@ -22,3 +22,5 @@ Information hidding is just a method of encapsulation, but no all of it.
 Ans: Overriding and Overloading are just two way to achieve polymorphism.
 > Polymorphism describes a pattern in object oriented programming in which classes have different functionality while sharing a common interface.
 
+6. `Interface` Vs `Absctract class`, when use which?<br />
+Ans: The functions within Interface have all to be abstract and inherited by its "children". While it will be more flexibility in Abstract class where you may only make some of the function mandatorily inherited and leave the other method commonly.
