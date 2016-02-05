@@ -1,4 +1,4 @@
-## Balck Magic
+## BalckMagic
 
 What is the difference between `String one = "one";` and `String one=new String("one");`?
 Ans: There is one thing in Java called "String literal pool", in order to cut down the number of String object create in JVM.
