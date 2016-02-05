@@ -19,5 +19,6 @@ Information hidding is just a method of encapsulation, but no all of it.
 > Abstraction is for observable behavior (externally) and encapsulation is for invisibility (internally) but these two are really complementary
 
 5. What is `polymorphism`? <br />
-Ans:> Polymorphism describes a pattern in object oriented programming in which classes have different functionality while sharing a common interface.
-Overriding and Overloading are just two way to achieve polymorphism.
+Ans: Overriding and Overloading are just two way to achieve polymorphism.
+> Polymorphism describes a pattern in object oriented programming in which classes have different functionality while sharing a common interface.
+
