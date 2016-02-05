@@ -7,3 +7,6 @@ While if you are using `String one=new String("one");`, it will always create a 
 
 2. Why not use double or int in currency calculation?
 Ans: http://stackoverflow.com/questions/3730019/why-not-use-double-or-float-to-represent-currency
+
+3. What is the difference between the operators >>> and >> in Java?
+Ans: The unsigned right shift operator ">>>" shifts a zero into the leftmost position, while the leftmost position after ">>" depends on sign extension.
