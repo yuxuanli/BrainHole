@@ -16,3 +16,4 @@ Ans: http://stackoverflow.com/questions/24626/abstraction-vs-information-hiding-
 Abstraction is kind of technology that decide what is the commmon thing among these items, and observe them in a high level.
 Encapsulation is kind of technology hide what should be hide and rule the method of iteracting with internal attribute.
 Information hidding is just a method of encapsulation, but no all of it.
+> Abstraction is for observable behavior (externally) and encapsulation is for invisibility (internally) but these two are really complementary
