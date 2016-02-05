@@ -1,6 +1,6 @@
 ## BalckMagic
 
-1.What is the difference between `String one = "one";` and `String one=new String("one");`?
+1. What is the difference between `String one = "one";` and `String one=new String("one");`?
 Ans: There is one thing in Java called "String literal pool", in order to cut down the number of String object create in JVM.
 By using `String one="one";`, if there is already a "one" String in the pool, it will return the reference to variable a, otherwise it will create a new string object and put it into the pool.
 While if you are using `String one=new String("one");`, it will always create a new String object outside the pool, no matter if a duplicated string over there in the pool.
