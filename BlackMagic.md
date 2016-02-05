@@ -17,3 +17,7 @@ Abstraction is kind of technology that decide what is the commmon thing among th
 Encapsulation is kind of technology hide what should be hide and rule the method of iteracting with internal attribute.
 Information hidding is just a method of encapsulation, but no all of it.
 > Abstraction is for observable behavior (externally) and encapsulation is for invisibility (internally) but these two are really complementary
+
+5. What is `polymorphism`?
+Ans:> Polymorphism describes a pattern in object oriented programming in which classes have different functionality while sharing a common interface.
+Overriding and Overloading are just two way to achieve polymorphism.
